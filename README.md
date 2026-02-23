@@ -12,11 +12,4 @@ This project uses the V-Dem (Varieties of Democracy) dataset to examine whether 
 
 Translating a classic political science debate into a reproducible longitudinal analysis -- identifying where a dominant explanatory variable breaks down and surfacing a more robust predictor with direct implications for development policy.
 
-## Portfolio Page
-
-Full narrative, interactive figures, and policy recommendations: [kchoover14.github.io/education-drives-democracy](https://kchoover14.github.io/education-drives-democracy)
-
-## How to Run
-
-1. Run `education-drives-democracy.R` to generate all figures and interactive HTML widgets
-2. Figures and HTML files will be saved to the working directory
+## Portfolio PageThe portfolio page includes a full project narrative, key findings, and figures. [kchoover14.github.io/education-drives-democracy](https://kchoover14.github.io/education-drives-democracy)
