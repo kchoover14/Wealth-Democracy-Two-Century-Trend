@@ -4,9 +4,7 @@ library(vdemdata) #data
 library(dplyr) #data wrangling
 library(ggplot2) #plots
 library(plotly) #animated plots
-library(forcats) #time series analysis
-library(janitor) #clean names
-library(colorBlindness) #test color blind friendly
+library(forcats) #factor reordering for bar charts
 library(htmlwidgets) #create html files for animated plots
 
 ######################## GET DATA
