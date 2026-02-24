@@ -7,10 +7,15 @@ The [portfolio page](https://kchoover14.github.io/education-drives-democracy) in
 
 ## Tools & Technologies
 
-- **Languages:** R
-- **Tools:** RStudio, GitHub
-- **Packages:** `vdemdata`, `dplyr`, `ggplot2`, `plotly`, `forcats`, `janitor`, `htmlwidgets`
+**Languages:** R
+**Tools:** RStudio | GitHub
+**Packages:** vdemdata | dplyr | ggplot2 | plotly | forcats | htmlwidgets | scales
 
 ## Expertise
 
 Translating a classic political science debate into a reproducible longitudinal analysis -- identifying where a dominant explanatory variable breaks down and surfacing a more robust predictor with direct implications for development policy.
+
+## License
+
+- Code and scripts © Kara C. Hoover, licensed under the [MIT License](LICENSE).
+- Data, figures, and written content © Kara C. Hoover, licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
