@@ -15,6 +15,10 @@ The [portfolio page](https://kchoover14.github.io/education-drives-democracy) in
 
 Translating a classic political science debate into a reproducible longitudinal analysis -- identifying where a dominant explanatory variable breaks down and surfacing a more robust predictor with direct implications for development policy.
 
+## Environment
+
+- `renv.lock` and `renv/` -- restore package environment with `renv::restore()`
+
 ## License
 
 - Code and scripts © Kara C. Hoover, licensed under the [MIT License](LICENSE).
