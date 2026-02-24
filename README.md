@@ -8,7 +8,9 @@ The [portfolio page](https://kchoover14.github.io/education-drives-democracy) in
 ## Tools & Technologies
 
 **Languages:** R
+
 **Tools:** RStudio | GitHub
+
 **Packages:** vdemdata | dplyr | ggplot2 | plotly | forcats | htmlwidgets | scales
 
 ## Expertise
